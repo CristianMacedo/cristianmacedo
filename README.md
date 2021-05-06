@@ -8,6 +8,10 @@ Welcome to my GitHub!
 I'm Cristian, Frontend developer from  <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="16"/> São Paulo, Brazil.
 </p>
 
+<p>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=cristianmacedo&style=flat-square"/>
+</p>
+
 - 🔭 I’m currently working at **[IBM]**
 - 💻 Connect with me on **[LinkedIn]**
 - 🌱 I’m currently learning **Redux**
