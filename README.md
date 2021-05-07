@@ -12,10 +12,10 @@ I'm Cristian, Frontend developer from  <img src="https://image.flaticon.com/icon
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=cristianmacedo&style=flat-square"/>
 </p>
 
+- 😄 Pronouns: He/His
+- 🌱 I’m currently learning **Redux**
 - 🔭 I’m currently working at **[IBM]**
 - 💻 Connect with me on **[LinkedIn]**
-- 🌱 I’m currently learning **Redux**
-- 😄 Pronouns: He/His
 - 📫 Reach me through the contact form at my **[Website]**
 - 🎸 I like singing, writing songs and playing instruments, check my **[Soundcloud]**
 
