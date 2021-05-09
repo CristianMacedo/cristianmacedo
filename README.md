@@ -28,7 +28,11 @@ I'm Cristian, Frontend developer from  <img src="https://image.flaticon.com/icon
 - ⚡ Fun fact: ...
 -->
 
-<h3>My technical skills</h3>
+<h3>Most Recent Article (PT-BR <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="16"/>)</h3>
+<p>I decided to start writing articles in portuguese because I felt that a lot of new content is getting bottlenecked by the language barrier.</p>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cristianmacedo/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cristianmacedo/0" alt="Recent Article 0">
+
+<h3>Technical Skills</h3>
 <p>
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
