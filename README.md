@@ -14,7 +14,7 @@ I'm Cristian, Frontend developer from  <img src="https://image.flaticon.com/icon
 
 - 😄 Pronouns: He/His
 - 🌱 I’m currently learning **Redux**
-- 🔭 I’m currently working at **[IBM]**
+- 🔭 I’m currently working at **[HDN Digital]**
 - 💻 Connect with me on **[LinkedIn]**
 - 📫 Reach me through the contact form at my **[Website]**
 - 🎸 I like singing, writing songs and playing instruments, check my **[Soundcloud]**
@@ -61,6 +61,7 @@ I'm Cristian, Frontend developer from  <img src="https://image.flaticon.com/icon
 </p>
 
 
+[hdn digital]: https://github.com/hdntecnologiabr "HDN Digital Github Home"
 [ibm]: https://github.com/IBM "IBM Github Home"
 [soundcloud]: https://soundcloud.com/cristianmacedo "Cristian Macedo Soundcloud"
 [linkedin]: https://www.linkedin.com/in/cristian-macedo "Cristian Macedo LinkedIn"
