@@ -12,9 +12,8 @@ I'm Cristian, Frontend developer from  <img src="https://image.flaticon.com/icon
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=cristianmacedo&style=flat-square"/>
 </p>
 
-- 😄 Pronouns: He/His
 - 🌱 I’m currently learning **Redux**
-- 🔭 I’m currently working at **[HDN Digital]**
+- 🔭 I’m currently working at **[levva.io]**
 - 💻 Connect with me on **[LinkedIn]**
 - 📫 Reach me through the contact form at my **[Website]**
 - 🎸 I like singing, writing songs and playing instruments, check my **[Soundcloud]**
@@ -61,7 +60,7 @@ I'm Cristian, Frontend developer from  <img src="https://image.flaticon.com/icon
 </p>
 
 
-[hdn digital]: https://github.com/hdntecnologiabr "HDN Digital Github Home"
+[levva.io]: https://levva.io "Levva.io Website"
 [ibm]: https://github.com/IBM "IBM Github Home"
 [soundcloud]: https://soundcloud.com/cristianmacedo "Cristian Macedo Soundcloud"
 [linkedin]: https://www.linkedin.com/in/cristian-macedo "Cristian Macedo LinkedIn"
