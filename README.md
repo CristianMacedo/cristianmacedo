@@ -5,7 +5,7 @@
 <p> 
 Welcome to my GitHub!
 </br>
-I'm Cristian, Frontend developer from 🇧🇷 São Paulo, Brazil.
+I'm Cristian, Frontend Sofware Engineer from 🇧🇷 São Paulo, Brazil.
 </p>
 
 <p>
