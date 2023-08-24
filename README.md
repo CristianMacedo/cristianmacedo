@@ -34,11 +34,12 @@ I'm Cristian, Frontend Sofware Engineer from 🇧🇷 São Paulo, Brazil.
 <h3>Technical Skills</h3>
 <p>
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> 
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="MUI" src="https://img.shields.io/badge/-MUI-007fff?style=flat-square&logo=mui&logoColor=white" />
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
