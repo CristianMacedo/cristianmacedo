@@ -12,8 +12,8 @@ I'm Cristian, Frontend Sofware Engineer from 🇧🇷 São Paulo, Brazil.
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=cristianmacedo&style=flat-square"/>
 </p>
 
-- 🌱 I’m currently learning **DevOps**
-- 💛 I’m currently working at **[levva.io]**
+- 🌱 I’m currently learning **Spanish**
+- 💛 I’m currently working at **[MercadoLivre]**
 - 💻 Connect with me on **[LinkedIn]**
 - 📫 Reach me through the contact form at my **[Website]**
 - 🎸 I like singing, writing songs and playing instruments, check my **[Soundcloud]**
@@ -46,7 +46,7 @@ I'm Cristian, Frontend Sofware Engineer from 🇧🇷 São Paulo, Brazil.
 </p>
 
 
-[levva.io]: https://levva.io "Levva.io Website"
+[mercadolivre]: https://developers.mercadolivre.com.br/ "MercadoLivre Developers Website"
 [soundcloud]: https://soundcloud.com/cristianmacedo "Cristian Macedo Soundcloud"
 [linkedin]: https://www.linkedin.com/in/cristian-macedo "Cristian Macedo LinkedIn"
 [website]: https://www.cristianmacedo.com "Cristian Macedo Portofolio"
